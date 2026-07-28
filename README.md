@@ -21,7 +21,7 @@ I am a current Break Through Tech AI Fellow with experience analyzing data and d
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Capstone Project - Income Prediction**](https://github.com/samiha3231/btt-capstone-income-model) | Built a model during BTT's Machine Learning course to predict whether an individual earns above or below $50K using U.S. Census data. | Python, NumPy, Pandas, Scikit-learn |
+| [**Capstone Project - Income Prediction**] | Built a model during BTT's Machine Learning course to predict whether an individual earns above or below $50K using U.S. Census data. | Python, NumPy, Pandas, Scikit-learn |
 | [**Housing Sales Predictor**](https://github.com/samiha3231/housing-sales-predictor) | Developed predictive models using Queens property data to estimate housing sale prices. | R, Data Analysis |
 
 ---
