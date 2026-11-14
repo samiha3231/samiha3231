@@ -38,10 +38,9 @@ I am an undergraduate student and Break Through Tech AI Studio Fellow with exper
 
 ---
 
-### 💻 Most-Used Languages
+### 📊 GitHub Stats
 
-![Samiha's Most-Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samiha3231&layout=compact&theme=transparent)
-
+![Samiha's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samiha3231&theme=transparent)
 ---
 
 ### 📫 Connect With Me
